@@ -1,4 +1,6 @@
-<img src="https://wallpaperaccess.com/full/6632179.png">
+### Discord WS
+
+> This Project to learning only!
 
 ### Usage
 
