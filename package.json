@@ -1,0 +1,11 @@
+{
+  "name": "discord-ws",
+  "version": "0.0.1-beta",
+  "description": "A powerful library for interacting with the Discord API",
+  "main": "src/Index",
+  "types": "src/Index.d.ts",
+  "repository": "https://github.com/IArabie/discord-ws.git",
+  "author": "محہٰمد الــعربٰٰــيٰ <135705690+IArabie@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
