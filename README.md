@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/6632179.png" style="border-radius: 7px; width: 500px">
+<img src="https://wallpaperaccess.com/full/6632179.png">
 
 ### Usage
 
